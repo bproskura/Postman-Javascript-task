@@ -15,7 +15,7 @@
 						"exec": [
 							"// Check if the request was successful (status code 200)\r",
 							"pm.test('Status code is 200', function () {\r",
-							"    pm.expect(response.code).to.equal(200);\r",
+							"    pm.response.to.have.status(200); // Use pm.response to access the response object\r",
 							"});\r",
 							"\r",
 							"// Log the result to the Postman console\r",
@@ -100,7 +100,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Update User",
 			"event": [
 				{
 					"listen": "test",
