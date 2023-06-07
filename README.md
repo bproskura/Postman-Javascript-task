@@ -22,7 +22,7 @@ To run the API tests, you can follow these steps:
 
 - Once the collection is imported, you will see the four test cases listed: "All Users", "New User", "Update User", and "Delete User".
 
-- To execute the tests, click on the "Run" button at the top right corner of the Postman application.
+- To execute the tests, click on the "Send" button at the top right corner of the Postman application.
 
 - After the test run is complete, you can view the test results, including the status codes and assertions, in the Postman collection runner.
 
