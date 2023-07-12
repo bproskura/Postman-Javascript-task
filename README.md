@@ -31,19 +31,19 @@ Below are the screenshots of the test results for each scenario:
 
 1. Get all users:
 
-![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test1.png)
+![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test_1.png)
 
 2. Create a new user:
 
-![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test2.png)
+![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test_2.png)
 
 3. Update an existing user:
 
-![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test3.png)
+![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test_3.png)
 
 4. Delete an existing user:
 
-![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test4.png)
+![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test_4.png)
 
 Please refer to the screenshots for a detailed view of the test results.
 If there are any questions I am happy to give answers to them.
