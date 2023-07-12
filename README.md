@@ -46,3 +46,4 @@ Below are the screenshots of the test results for each scenario:
 ![Image alt](https://github.com/bproskura/Postman-Javascript-task/raw/main/Test4.png)
 
 Please refer to the screenshots for a detailed view of the test results.
+If there are any questions I am happy to give answers to them.
